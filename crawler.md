@@ -1,1 +1,1 @@
-The spore crawler is a reddit crawler for tech and programming related subreddits.
+The spore crawler is a crawler for tech and programming related subreddits and blogs.
